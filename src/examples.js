@@ -1,7 +1,7 @@
-import gcd from './gcd.es6';
-import lcm from './lcm.es6';
-import transponse from './transponse.es6';
-import multiplyMatrix from './multiplyMatrix.es6';
+import gcd from './gcd.js';
+import lcm from './lcm.js';
+import transponse from './transponseMatrix.js';
+import multiplyMatrix from './multiplyMatrix.js';
 
 //
 // Наибольший общий делитель 8

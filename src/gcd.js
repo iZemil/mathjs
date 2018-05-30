@@ -8,7 +8,7 @@ export default function gcd(arr) {
   var n = arr.length,
       x = Math.abs(arr[0]);
 
-  for (var i = 1; i < n; i++) {
+  for (var i = 1; i < n; i+=1) {
     var y = Math.abs(arr[i]);
 
     while (x && y) {
